@@ -1,0 +1,702 @@
+[
+  {
+    "Path": "train/patient10710/study1/view1_frontal.jpg",
+    "Age": 56.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient32634/study4/view1_frontal.jpg",
+    "Age": 64.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient53331/study7/view1_frontal.jpg",
+    "Age": 48.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient22043/study1/view1_frontal.jpg",
+    "Age": 31.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient52434/study3/view1_frontal.jpg",
+    "Age": 61.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient53073/study1/view1_frontal.jpg",
+    "Age": 35.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient32086/study1/view1_frontal.jpg",
+    "Age": 66.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient25445/study7/view1_frontal.jpg",
+    "Age": 38.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient31998/study1/view1_frontal.jpg",
+    "Age": 54.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient39410/study3/view1_frontal.jpg",
+    "Age": 78.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient61035/study1/view1_frontal.jpg",
+    "Age": 46.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient36249/study1/view1_frontal.jpg",
+    "Age": 67.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient09741/study3/view1_frontal.jpg",
+    "Age": 60.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient43031/study1/view1_frontal.jpg",
+    "Age": 44.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient02118/study1/view1_frontal.jpg",
+    "Age": 35.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient34130/study2/view1_frontal.jpg",
+    "Age": 25.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient39256/study4/view1_frontal.jpg",
+    "Age": 52.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient22609/study4/view1_frontal.jpg",
+    "Age": 66.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient31087/study1/view1_frontal.jpg",
+    "Age": 67.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient03751/study3/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient03212/study1/view1_frontal.jpg",
+    "Age": 50.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient09204/study1/view1_frontal.jpg",
+    "Age": 80.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient30824/study1/view1_frontal.jpg",
+    "Age": 80.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient48021/study3/view1_frontal.jpg",
+    "Age": 62.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient02419/study1/view1_frontal.jpg",
+    "Age": 22.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient63990/study1/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient16134/study1/view1_frontal.jpg",
+    "Age": 79.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient39499/study2/view1_frontal.jpg",
+    "Age": 48.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient13094/study2/view1_frontal.jpg",
+    "Age": 45.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient16529/study8/view1_frontal.jpg",
+    "Age": 65.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient05744/study1/view1_frontal.jpg",
+    "Age": 22.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient62405/study1/view1_frontal.jpg",
+    "Age": 30.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient55318/study1/view1_frontal.jpg",
+    "Age": 53.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient30784/study2/view1_frontal.jpg",
+    "Age": 73.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient12600/study7/view1_frontal.jpg",
+    "Age": 48.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient40531/study4/view1_frontal.jpg",
+    "Age": 45.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient35532/study1/view1_frontal.jpg",
+    "Age": 73.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient58397/study1/view1_frontal.jpg",
+    "Age": 61.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient35753/study16/view1_frontal.jpg",
+    "Age": 61.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient60522/study1/view1_frontal.jpg",
+    "Age": 72.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient36621/study2/view1_frontal.jpg",
+    "Age": 60.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient30225/study3/view1_frontal.jpg",
+    "Age": 72.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient20505/study4/view1_frontal.jpg",
+    "Age": 85.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient18326/study5/view1_frontal.jpg",
+    "Age": 76.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient34953/study7/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient14426/study16/view1_frontal.jpg",
+    "Age": 86.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient00108/study1/view1_frontal.jpg",
+    "Age": 85.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient29785/study2/view1_frontal.jpg",
+    "Age": 64.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient01181/study3/view1_frontal.jpg",
+    "Age": 78.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient56272/study2/view1_frontal.jpg",
+    "Age": 54.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient38365/study3/view1_frontal.jpg",
+    "Age": 69.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient02757/study2/view1_frontal.jpg",
+    "Age": 36.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient55455/study1/view1_frontal.jpg",
+    "Age": 69.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient21593/study5/view1_frontal.jpg",
+    "Age": 49.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient13675/study2/view1_frontal.jpg",
+    "Age": 50.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient12993/study2/view1_frontal.jpg",
+    "Age": 65.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient24221/study1/view1_frontal.jpg",
+    "Age": 80.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient40699/study2/view1_frontal.jpg",
+    "Age": 84.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient51605/study1/view1_frontal.jpg",
+    "Age": 58.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient38199/study2/view1_frontal.jpg",
+    "Age": 69.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient33307/study3/view1_frontal.jpg",
+    "Age": 70.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient22871/study2/view1_frontal.jpg",
+    "Age": 61.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient43124/study3/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient03420/study3/view1_frontal.jpg",
+    "Age": 51.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient00942/study5/view1_frontal.jpg",
+    "Age": 53.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient03619/study8/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient62603/study1/view1_frontal.jpg",
+    "Age": 36.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient23115/study4/view1_frontal.jpg",
+    "Age": 41.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient35709/study17/view1_frontal.jpg",
+    "Age": 75.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient32843/study1/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient04780/study5/view1_frontal.jpg",
+    "Age": 58.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient57003/study1/view1_frontal.jpg",
+    "Age": 25.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient24385/study4/view1_frontal.jpg",
+    "Age": 76.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient57651/study1/view1_frontal.jpg",
+    "Age": 84.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient10634/study15/view2_frontal.jpg",
+    "Age": 88.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient30026/study10/view1_frontal.jpg",
+    "Age": 55.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient10896/study1/view1_frontal.jpg",
+    "Age": 78.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient38716/study6/view2_frontal.jpg",
+    "Age": 64.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient46809/study2/view1_frontal.jpg",
+    "Age": 37.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient32306/study4/view1_frontal.jpg",
+    "Age": 58.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "train"
+  },
+  {
+    "Path": "train/patient29532/study1/view1_frontal.jpg",
+    "Age": 36.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient00043/study1/view1_frontal.jpg",
+    "Age": 38.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient23044/study2/view1_frontal.jpg",
+    "Age": 56.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient26214/study2/view1_frontal.jpg",
+    "Age": 78.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient48470/study1/view1_frontal.jpg",
+    "Age": 49.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient03657/study2/view1_frontal.jpg",
+    "Age": 28.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient39288/study3/view1_frontal.jpg",
+    "Age": 57.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient12367/study11/view1_frontal.jpg",
+    "Age": 22.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient40783/study1/view1_frontal.jpg",
+    "Age": 18.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient41947/study1/view1_frontal.jpg",
+    "Age": 19.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient18357/study12/view1_frontal.jpg",
+    "Age": 66.0,
+    "Sex": "Male",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient16604/study2/view1_frontal.jpg",
+    "Age": 39.0,
+    "Sex": "Female",
+    "Label": 0,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient43777/study2/view1_frontal.jpg",
+    "Age": 84.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient39764/study8/view1_frontal.jpg",
+    "Age": 77.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient17678/study1/view1_frontal.jpg",
+    "Age": 22.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient03439/study1/view1_frontal.jpg",
+    "Age": 89.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient01630/study3/view1_frontal.jpg",
+    "Age": 32.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient55780/study2/view1_frontal.jpg",
+    "Age": 58.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient10541/study2/view1_frontal.jpg",
+    "Age": 36.0,
+    "Sex": "Female",
+    "Label": 1,
+    "Split": "val"
+  },
+  {
+    "Path": "train/patient32007/study13/view1_frontal.jpg",
+    "Age": 90.0,
+    "Sex": "Male",
+    "Label": 1,
+    "Split": "val"
+  }
+]
